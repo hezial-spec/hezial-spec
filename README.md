@@ -1,48 +1,99 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="200"/>
-</p>
+# Hi there, I'm Hazel! 👋🐱
 
-<h1 align="center">Hey, I'm <a href="https://github.com/hezial-spec" target="_blank">[Hazel]</a> 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Cat+Enthusiast+%F0%9F%90%B1;Living+in+the+USA+%F0%9F%87%BA%F0%9F%87%B8;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <i>A passionate <b>Full-Stack Developer</b> & <b>AI Enthusiast</b> from USA</i> 🌍  
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300"/>
+</div>
+
+## 🐾 About Me
+
+```javascript
+const hazel = {
+    name: "Hazel",
+    location: "United States 🇺🇸",
+    role: "Full Stack Developer",
+    experience: "3+ years",
+    currentFocus: ["React", "Node.js", "TypeScript"],
+    languages: ["JavaScript", "Python", "TypeScript"],
+    databases: ["MongoDB", "PostgreSQL", "Redis"],
+    tools: ["Docker", "AWS", "Git", "VS Code"],
+    funFact: "I debug code better with a cat on my lap! 🐾",
+};
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
+  <br>
+  <i>My coding buddy supervising my work</i>
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+  <br>
+  <i>Me when I fix a bug on the first try</i>
+</div>
+
+## 🐱 Cat Corner
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200"/>
+</div>
+
+### 😸 Daily Cat Wisdom
+> *"A cat has absolute emotional honesty: human beings, for one reason or another, may hide their feelings, but a cat does not."* - Ernest Hemingway
+
+Just like cats, I believe in being authentic in my code - no hidden bugs, just purr-fect solutions! 🐾
 
 ---
 
-## ⚡ About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff6b6b&style=for-the-badge&label=Profile+Views" />
+</div>
 
-- 🎓 Currently mastering <b>Computer Science</b> & exploring <b>Artificial Intelligence</b>  
-- 💻 Building cool stuff with <b>React</b>, <b>Node.js</b>, and <b>Python</b>  
-- 🎨 Also dabbling in <b>Graphic Design</b> and <b>3D Modeling</b>  
-- 🚀 Always learning and pushing boundaries!  
-
----
-
-## 🛠 Technologies & Tools
-
-<table>
-  <tr align="center">
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /><br>Python</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /><br>React</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /><br>Node.js</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" /><br>Docker</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
+</div>
 
 ---
 
-## ☕ Support Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Have+a+paw-some+day!+%F0%9F%90%BE;Keep+coding+and+stay+curious!+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-If you enjoy my work and want to support, you can buy me a coffee!  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-  </a>
-</p>
-
----
-
-<p align="center">Thanks for visiting! 🚀✨</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%"/>
+</div>
